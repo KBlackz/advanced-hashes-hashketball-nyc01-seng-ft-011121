@@ -148,7 +148,7 @@ end
     end
   end
 end 
-p shoe_size("Jeff Adrien")
+
 
 
 def team_colors(name)
